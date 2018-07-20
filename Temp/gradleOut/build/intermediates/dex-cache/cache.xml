@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\Unity\Projects\FruitNinja\Temp\gradleOut\libs\unity-classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.1"
+        sha1="f55810fa32d299d8e1418095393f24faa6f66ab8">
+        <dex dex="D:\Unity\Projects\FruitNinja\Temp\gradleOut\build\intermediates\pre-dexed\release\unity-classes_7384b091ac8d7ccf205aea82740f19a1fb4c5d31.jar" />
+    </item>
+
+</items>
